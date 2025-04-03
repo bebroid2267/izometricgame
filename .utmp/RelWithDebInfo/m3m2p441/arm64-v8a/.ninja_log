@@ -1,0 +1,12 @@
+# ninja log v5
+186	1697	7650235792310124	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	6a00aed3a696fd76
+1703	2660	7650235801373615	C:/IzometricPlay/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/m3m2p441/obj/arm64-v8a/libswappywrapper.so	baa756fd32789077
+51	4794	7650235823017085	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	51c1cfb55face124
+22	4930	7650235824659824	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	a3ea7ace32b51853
+127	4962	7650235825028790	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	7ff9123d4eae8d60
+88	4983	7650235825013355	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	3f2736aa13effc56
+149	5217	7650235827447846	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	edba5f59db6ea91e
+36	5427	7650235829612912	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	e17b1b069b459ea5
+69	6025	7650235835765021	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	d2808978e4f7b26
+2	6497	7650235840396232	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	38af1df108592b16
+6498	6810	7650235843635285	C:/IzometricPlay/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/m3m2p441/obj/arm64-v8a/libgame.so	8abacffed45512
